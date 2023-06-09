@@ -1,4 +1,4 @@
-# zelle-frontend
+# React native portal app
 
 
 ## Demo
